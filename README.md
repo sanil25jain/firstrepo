@@ -12,12 +12,12 @@ first repository for checking
   * python -m venv venv
   * source venv/bin/activate
    
-5. install ipykernel and register it
+4. install ipykernel and register it
 
   * pip install ipykernel
   * python -m ipykernel install --user --name=venv
 
-7. create notebook with .ipynb and train and complete full model
-8. pickle this notebook
-9. create api in different file
-10. deploy
+5. create notebook with .ipynb and train and complete full model
+6. pickle this notebook
+7. create api in different file
+8. deploy
