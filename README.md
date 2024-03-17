@@ -21,3 +21,14 @@ first repository for checking
 6. pickle this notebook
 7. create api in different file
 8. deploy
+
+
+##files in data science project## 
+  * venv
+  * data
+  * about
+  * .gitignore
+  * model
+  * artifacts
+  * api
+    
